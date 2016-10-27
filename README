@@ -1,0 +1,3 @@
+Código para que el Arduino reciba datos desde el Raspberry pi 1, el Arduino recibe por Serial del Raspberry
+Código del 25 de octubre: El arduino muestra en un LCD 16*2 los datos (solo un byte cada 4 segundos)
+Código del 27 de octubre: El arduino muestra en un TV los datos via cable RCA (cable amarillo <video>) (solo un byte cada 4 segundos)
